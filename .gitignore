@@ -1,0 +1,21 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+.env
+
+# MediaPipe Model Files (Large Binaries)
+# It is better to provide a download link in the README
+*.task
+*.tflite
+
+# IDE and System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
