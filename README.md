@@ -2,6 +2,9 @@
 
 **AetherLens - Face Mesh** is a high-fidelity computer vision application that performs real-time 3D facial geometry tracking. By leveraging the **MediaPipe Face Landmarker** task, it maps **478 unique 3D landmarks** onto the human face, providing a dense mesh suitable for facial analysis, augmented reality (AR) filters, and virtual avatars.
 
+<img width="797" height="637" alt="FaceMesh" src="https://github.com/user-attachments/assets/02f97392-e255-43f3-8382-a3f84a53e035" />
+
+
 ##  Key Features
 
 * **478 3D Facial Landmarks**: Detects a high-density mesh including eye contours, lips, and facial silhouettes.
@@ -37,7 +40,7 @@ You must download the **Face Landmarker** model bundle from Google and place it 
 
 1. Run the application:
 ```bash
-python Facelandmarker.py
+python FaceLandmarker.py
 
 ```
 
