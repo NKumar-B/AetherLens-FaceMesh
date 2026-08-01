@@ -11,7 +11,7 @@
 * **478 3D Facial Landmarks**: Detects a high-density mesh including eye contours, lips, and facial silhouettes.
 * **Expression Detection (Blendshapes)**: Capable of outputting 52 blendshape scores to recognize facial expressions like smiling, blinking, or brow movement.
 * **Real-Time Performance**: Optimized for sub-millisecond processing on standard CPU/GPU hardware.
-* **Mirror Mode**: Horizontally flipped feed for an intuitive user experience.
+* **Mirror Mode**: Horizontally flipped feed for an intuitive user experience. 
 
 ---
 
